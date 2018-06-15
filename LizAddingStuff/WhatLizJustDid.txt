@@ -1,0 +1,12 @@
+Hi,
+
+Here’s what I just did:
+
+In the command line, I typed:
+git clone https://github.com/mnewcombe/water-in-ol-MC.git
+
+You would type
+git clone https://github.com/EFerriss/olivine.git 
+
+That put a copy of all of your files onto my repository.
+Then I made a new folder and saved this file in it.
