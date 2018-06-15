@@ -1,5 +1,7 @@
 Hi,
 
+It’s better to have all of our files in one repo so that I can include them all with a single DOI and license.
+
 Here’s what I just did:
 
 In the command line, I typed:
@@ -10,3 +12,12 @@ git clone https://github.com/EFerriss/olivine.git
 
 That put a copy of all of your files onto my repository.
 Then I made a new folder and saved this file in it.
+
+Then to upload that new stuff onto GitHub I went back to the command line, navigated into water-in-ol-MC.git folder and typed
+
+git add .
+git commit -m “Liz wuz here”
+git push
+
+Try adding your stuff into my repository that way. If you don’t have push access, try submitting a ‘pull request’. We’ll figure it out :)
+
