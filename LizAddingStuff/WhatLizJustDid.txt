@@ -10,7 +10,7 @@ git clone https://github.com/mnewcombe/water-in-ol-MC.git
 You would type
 git clone https://github.com/EFerriss/olivine.git 
 
-That put a copy of all of your files onto my repository.
+That put a copy of all of your files onto my computer.
 Then I made a new folder and saved this file in it.
 
 Then to upload that new stuff onto GitHub I went back to the command line, navigated into water-in-ol-MC.git folder and typed
